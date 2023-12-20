@@ -1,0 +1,21 @@
+.Header-container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #0f0f1a;
+    
+  
+}
+
+.botones{
+    display: flex;
+    gap: 1rem;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 400px;
+}
